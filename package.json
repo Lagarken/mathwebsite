@@ -1,0 +1,13 @@
+{
+  "name": "ccported.github.io",
+  "version": "1.0.0",
+  "description": "Long list of links to games",
+  "main": "generate_sitemap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "htmlc "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
